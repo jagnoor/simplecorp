@@ -35,7 +35,7 @@
 					
 				</div> <!-- end #footerWidgets -->
 				
-				<!-- begin #copyright -->
+				<!-- delete #copyright
 				<div id="copyrights">
 					<div class="container clearfix">
 
@@ -49,12 +49,11 @@
 						<?php } else { ?>
 						<?php echo of_get_option('sc_footer_copyright')  ?>
 						<?php } ?>
-						<!-- Site5 Credits-->
 						<br>Created by <a href="http://www.s5themes.com/">Site5 WordPress Themes</a>. Experts in <a href="http://gk.site5.com/t/568">WordPress Hosting</a>. 
 
 						
 					</div>
-				</div>
+				</div -->
 				<!-- end #copyright -->
 				
 			</footer> <!-- end footer -->

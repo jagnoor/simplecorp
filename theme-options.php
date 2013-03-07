@@ -118,6 +118,8 @@ function optionsframework_options() {
 	// Theme Color Schemes
 
 	$colorschemes = array(
+		'theme-central'=>'Theme Central',
+
 		'light-blue'=>'Light Blue',
 		'light-blue-dark'=>'Light Blue Dark',
 		'light-green'=>'Light Green',
